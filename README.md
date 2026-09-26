@@ -10,7 +10,7 @@ and frequency mapping.
 
 ## HackerRank Profile
 
-[My HackerRank Profile](PASTE-YOUR-HACKERRANK-PROFILE-LINK-HERE)
+[My HackerRank Profile](https://www.hackerrank.com/profile/shriharidesai209)
 
 ## Problems Solved
 
@@ -53,28 +53,25 @@ I have achieved a 3-Star Problem Solving badge on HackerRank.
 - Vectors
 - Hash Maps
 
-## Activity Status
-
 ## HackerRank Submission Proof
 
 ### Diagonal Difference
-![Diagonal Difference](screenshots/Diagonal%20difference.png)
+![Diagonal Difference](screenshots/diagonal_difference.png)
 
 ### Dynamic Array
-![Dynamic Array](screenshots/dynamic%20array.png)
+![Dynamic Array](screenshots/dynamic_array.png)
 
 ### Time Conversion
-![Time Conversion](screenshots/Time%20converstion.png)
+![Time Conversion](screenshots/time_conversion.png)
 
 ### Compare the Triplets
-![Compare the Triplets](screenshots/Compare%20triplets.png)
+![Compare the Triplets](screenshots/compare_triplets.png)
 
 ### Sparse Arrays
-![Sparse Arrays](screenshots/Sparse%20array.png)
+![Sparse Arrays](screenshots/sparse_array.png)
 
 ### 3-Star Problem Solving Badge
-![HackerRank 3-Star Problem Solving Badge](screenshots/3%20star%20badge.png)
-![Sparse Arrays](screenshots/sparse-arrays.png)
+![HackerRank 3-Star Problem Solving Badge](screenshots/three_star_badge.png)
 
 ### 3-Star Problem Solving Badge
 ![HackerRank 3-Star Badge](screenshots/hackerrank-3-star-badge.png)
