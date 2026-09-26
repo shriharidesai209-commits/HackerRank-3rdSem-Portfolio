@@ -56,3 +56,22 @@ I have achieved a 3-Star Problem Solving badge on HackerRank.
 ## Activity Status
 
 All 5 mandatory HackerRank problems have been successfully completed.
+## HackerRank Submission Proof
+
+### Diagonal Difference
+![Diagonal Difference](screenshots/diagonal-difference.png)
+
+### Dynamic Array
+![Dynamic Array](screenshots/dynamic-array.png)
+
+### Time Conversion
+![Time Conversion](screenshots/time-conversion.png)
+
+### Compare the Triplets
+![Compare the Triplets](screenshots/compare-the-triplets.png)
+
+### Sparse Arrays
+![Sparse Arrays](screenshots/sparse-arrays.png)
+
+### 3-Star Problem Solving Badge
+![HackerRank 3-Star Badge](screenshots/hackerrank-3-star-badge.png)
